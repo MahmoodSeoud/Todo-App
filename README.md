@@ -20,3 +20,7 @@ npm start
 ```
 ### Enjoy!
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
